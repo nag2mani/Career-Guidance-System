@@ -3,6 +3,8 @@
 
 This repository contains a full-stack Career Guidance System with a Django backend and a React frontend.
 
+![Uploading Screenshot 2025-09-09 at 11.14.56 PM.png…]()
+
 ---
 
 ## Backend: Django
